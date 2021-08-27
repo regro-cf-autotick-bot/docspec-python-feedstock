@@ -28,7 +28,6 @@ requirements:
 test:
   imports:
     - docspec_python
-    - docspec_python.test
   commands:
     - pip check
     - docspec-python --help
