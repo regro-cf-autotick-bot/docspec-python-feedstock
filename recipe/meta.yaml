@@ -1,5 +1,5 @@
 {% set name = "docspec-python" %}
-{% set version = "1.2.0" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/docspec-python-{{ version }}.tar.gz
-  sha256: 491755689aec1f7b5abaed8e7b11b013ab6bfb979c5e7d9855f41cf40cb82192
+  sha256: 2825bba2b1fae47d0470eb33964b635c363365537d46759ff0c7006b45ebc4f4
 
 build:
   number: 0
